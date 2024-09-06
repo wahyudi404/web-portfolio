@@ -37,7 +37,7 @@ const skills = [
   {
     id: 8,
     name: "PHP",
-    url: "./img/skills/php.png",
+    url: "./img/skills/PHP.png",
   },
   {
     id: 9,
