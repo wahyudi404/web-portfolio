@@ -1,1 +1,4 @@
 node_modules/
+.cpanel.yml
+package-lock.json
+src/output.css
